@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm database analyst with business and statistics orientation
+I'm fluent in R, using SQL an other scripting languagaes
+I've experience in Big Data Projects done in AWS
